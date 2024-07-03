@@ -50,6 +50,4 @@ This Streamlit application provides a chatbot interface for creating, analyzing,
 ### 4. Provide Feedback
    - After creating, analyzing, or modifying a plan, you can provide feedback on your experience with the chatbot. 
 
-## Project Structure
-├── chatbot.py # Main Streamlit application code
-└── requirements.txt # List of required Python libraries
+
